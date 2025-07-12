@@ -12,17 +12,13 @@ This tool scans your system for signs of known game cheats, mod menus, suspiciou
 It performs:
 
     🔎 Running process inspection
-
     🔎 Registry scan (HKCU\Software)
-
     🔎 File system scan (AppData, Downloads, Firefox storage)
-
     ✅ Saves a readable report locally (e.g., PC_Integrity_Report_20250712_1430.txt)
 
 ⚠️ Transparency & Disclaimer
 
     This tool is 100% offline — nothing is sent, uploaded, or logged externally.
-
     No software is installed; it's a simple .exe file you can delete after use.
 
     Suspicious results are not proof of cheating.
@@ -34,24 +30,10 @@ It performs:
 ✅ Usage Instructions
 
     Download the latest release
-
     Run the .exe (Windows only, no installation needed)
-
     Wait for the scan to complete
-
     A text report will be created in the same folder (e.g., PC_Integrity_Report_*.txt)
-
     Open the file and review any flagged entries
-
-💡 Intended Use Cases
-
-    eSports tournament check-in
-
-    Self-check before playing competitive games
-
-    LAN party verification
-
-    Modding communities verifying tool usage transparency
 
 📁 Example Output
 
